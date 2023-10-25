@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ioc_unity_containers", "ioc_unity_containers\ioc_unity_containers.csproj", "{38F63A39-78B9-4C09-8C02-D9385B8425A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ioc_unit_tests", "ioc_unit_tests\ioc_unit_tests.csproj", "{CDA5026C-1D3C-45EC-ABB8-EF826C89E65D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F63A39-78B9-4C09-8C02-D9385B8425A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F63A39-78B9-4C09-8C02-D9385B8425A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F63A39-78B9-4C09-8C02-D9385B8425A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F63A39-78B9-4C09-8C02-D9385B8425A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA5026C-1D3C-45EC-ABB8-EF826C89E65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA5026C-1D3C-45EC-ABB8-EF826C89E65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA5026C-1D3C-45EC-ABB8-EF826C89E65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA5026C-1D3C-45EC-ABB8-EF826C89E65D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E735E01F-F37B-4283-BB47-39E101973580}
+	EndGlobalSection
+EndGlobal
